@@ -2,7 +2,8 @@
 
 ## 网站
 [培养方案](http://gsmis.buaa.edu.cn/gsapp/sys/wdpyfaappbuaa/*default/index.do?EMAP_LANG=zh#/pyfaxq)
-[课程查询]（http://gsmis.buaa.edu.cn/gsapp/sys/kccxapp/*default/index.do?EMAP_LANG=zh#/kccx）
+
+[课程查询](http://gsmis.buaa.edu.cn/gsapp/sys/kccxapp/*default/index.do?EMAP_LANG=zh#/kccx)
 
 注：需要挂 VPN 访问校内网
 
